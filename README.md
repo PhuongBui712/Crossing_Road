@@ -1,5 +1,5 @@
 # Crossing Road game
-This is a game project in OOP (Object Oriented Programming) course, in Ho Chi Minh University of Science
+This is a game project in OOP (Object Oriented Programming) course, in Ho Chi Minh University of Science.  
 This is a classic game where the player has to control a character to cross the road so as not to hit the obstacles and will pass the level if the player crosses the road safely.
 
 ## How to run?
